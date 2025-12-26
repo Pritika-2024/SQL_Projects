@@ -1,4 +1,5 @@
 /* Final layer of data handling where data is ready to be queried directly for analytics and reporting.
+Data model used: Star model
 */
 
 -- =============================================================================
